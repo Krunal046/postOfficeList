@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+<color name="black">#FF000000</color>
+<color name="white">#FFFFFFFF</color>
+<color name="main">#6750A3</color>
+<color name="my_light_primary">#6200EE</color>
+<color name="my_light_on_primary">#FFFFFF</color>
+<color name="my_light_primary_container">#BB86FC</color>
+<color name="my_light_on_primary_container">#000000</color>
+
+<color name="my_light_secondary">#03DAC6</color>
+<color name="my_light_on_secondary">#000000</color>
+<color name="my_light_secondary_container">#018786</color>
+<color name="my_light_on_secondary_container">#FFFFFF</color>
+
+<color name="my_light_tertiary">#018786</color>
+<color name="my_light_on_tertiary">#FFFFFF</color>
+<color name="my_light_tertiary_container">#03DAC6</color>
+<color name="my_light_on_tertiary_container">#000000</color>
+
+<color name="my_light_background">#FFFFFF</color>
+<color name="my_light_on_background">#000000</color>
+<color name="my_light_surface">#FFFFFF</color>
+<color name="my_light_on_surface">#000000</color>
+<color name="my_light_surface_variant">#BB86FC</color>
+<color name="my_light_on_surface_variant">#6200EE</color>
+<color name="my_light_error">#B00020</color>
+<color name="my_light_on_error">#FFFFFF</color>
+<color name="my_light_error_container">#CF6679</color>
+<color name="my_light_on_error_container">#B00020</color>
+<color name="dark_gray">#A9A9A9</color>
+</resources>
